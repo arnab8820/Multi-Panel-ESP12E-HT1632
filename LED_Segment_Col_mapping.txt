@@ -1,0 +1,13 @@
+# LED Segment mapping with column value
+# Each Row represent 1 digit
+
+LED Segment     Col Value
+-----------     ----------
+A               2
+B               3
+C               4
+D               5
+E               6
+F               0
+G               1
+DP              7
